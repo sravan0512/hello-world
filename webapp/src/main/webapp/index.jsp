@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a EC2 using jenkins for Sravan Edited for pipeline auto checking </h2>
-<h2> Glad to see you here </h2>
+<h1> Welcome to AustienMarizo !!   </h1>
+<h2> Sample ci-cd pipeline </h2>
+<h1>created By Sravan <h1>
